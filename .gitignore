@@ -205,3 +205,31 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# =====================================
+# SilentGuardian Project Specific
+# =====================================
+
+# ML Virtual Environment
+ML/venv/
+
+# Dataset (Very Important - Large Files)
+ML/Data/
+
+# Processed numpy arrays
+ML/Models/*.npy
+
+# Trained models (future)
+ML/Models/*.h5
+ML/Models/*.keras
+ML/Models/*.tflite
+
+# Python cache inside ML
+ML/**/__pycache__/
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
