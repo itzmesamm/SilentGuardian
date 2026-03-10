@@ -43,4 +43,4 @@ def predict_audio(file_path):
 
 
 if __name__ == "__main__":
-    predict_audio("test_audio.wav")
+    predict_audio("test_audio2.wav")

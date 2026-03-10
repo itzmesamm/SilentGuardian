@@ -1,5 +1,7 @@
 # SilentGuardian
 SilentGuardian - Edge AI based autonomous emergency detection system using multimodal sensor fusion.
+
+
 ## Current Progress
 
 AI Backend Implementation (Current Progress)

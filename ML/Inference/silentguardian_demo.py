@@ -3,7 +3,7 @@ from motion_inference import predict_motion
 
 print("SilentGuardian Emergency Monitoring Started")
 
-audio_alert = predict_audio("test_audio.wav")
+audio_alert = predict_audio("test_audio1.wav")
 motion_alert = predict_motion()
 
 print("Evaluating emergency condition...")
